@@ -1,8 +1,13 @@
 **Name:** ARUSHI KUMARI LOHRA
+
 **Company:** CODETECH IT SOLUTION
+
 **ID:** CT6WDS1300
+
 **Domain:** VLSI DESIGN
+
 **Duration:** JULY 15th, 2024 to AUGUST30th, 2024
+
 **Mentor:** Neela Santhosh Kumar
 
 
