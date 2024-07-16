@@ -12,6 +12,8 @@
 
 
 ## Ovrview of the project
+![Screenshot 2024-07-17 004939](https://github.com/user-attachments/assets/b49f57bd-9603-46ce-ad03-482b45525b94)
+
 
 ### Project: DIGITAL LOGIC DESIGN WITH VERILOG
 
